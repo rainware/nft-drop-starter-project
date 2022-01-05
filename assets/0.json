@@ -1,0 +1,19 @@
+{
+  "name": "cube",
+  "symbol": "CB",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FWfUHky7foRSGHcjcucdUF7FTAqNhxJUAmoskMmWwSEo",
+        "share": 100
+      }
+    ]
+  }
+}

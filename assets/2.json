@@ -1,0 +1,19 @@
+{
+  "name": "butterfly",
+  "symbol": "BF",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FWfUHky7foRSGHcjcucdUF7FTAqNhxJUAmoskMmWwSEo",
+        "share": 100
+      }
+    ]
+  }
+}

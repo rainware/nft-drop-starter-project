@@ -1,0 +1,19 @@
+{
+  "name": "flower",
+  "symbol": "FL",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FWfUHky7foRSGHcjcucdUF7FTAqNhxJUAmoskMmWwSEo",
+        "share": 100
+      }
+    ]
+  }
+}
